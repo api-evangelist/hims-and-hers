@@ -16,7 +16,7 @@ description: >-
   D2C product; no public developer API has been identified, and B2B and
   partner integrations are gated. This entry catalogs the company surface for
   the API Evangelist index.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2026-05-23'
 modified: '2026-05-23'
