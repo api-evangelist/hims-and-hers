@@ -36,6 +36,10 @@ tags:
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/hims-and-hers-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/hims-and-hers-domain-security.yml
   - type: Website
     url: https://www.hims.com/
   - type: ForHers
